@@ -2,7 +2,7 @@
 > A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 
 ## Web App Link
-http://serene-headland-22338.herokuapp.com/
+[Link](https://node-authenticationnew.onrender.com/)
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/49118089/90341145-b776a900-e01a-11ea-93c8-4f6864a141c1.png)
 
@@ -26,7 +26,7 @@ http://serene-headland-22338.herokuapp.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/nodejs-auth.git`
+`git clone https://github.com/Sagar-Arora-eng/Backend-Authentication`
 
 ##### Into the project directory
 
@@ -40,7 +40,7 @@ http://serene-headland-22338.herokuapp.com/
 
 `npm start`
 
-#### The Server should now be running at http://localhost:3006/
+#### The Server should now be running at http://localhost:8000/
 
 ## Folder Structure
 
